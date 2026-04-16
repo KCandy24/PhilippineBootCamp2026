@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     461444536890884097       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     461461710377982977       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "TinyTapeout_PhBootCamp2026"      # Project title
   author:       "Kurt Christian D. Andaya"      # Your name
   discord:      "madfrog8052"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
